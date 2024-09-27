@@ -1,2 +1,3 @@
 # Study_java
-그냥 내가 자바하고싶은것들 적는곳
+240927
+- collectuib framework 관련 arraylist / map등 활용
